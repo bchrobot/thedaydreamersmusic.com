@@ -26,8 +26,8 @@ img.bg {
   left: 0;
 
   /* Set up filters */
-  -webkit-filter: sepia(0.1) brightness(0.7) contrast(1.2);
-  		  filter: sepia(0.1) brightness(0.7) contrast(1.2);
+  -webkit-filter: sepia(0.13) brightness(0.7) contrast(1.2);
+  		  filter: sepia(0.13) brightness(0.7) contrast(1.2);
 }
 
 .navbar {
